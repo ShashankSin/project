@@ -1,0 +1,73 @@
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+.print-wrapper {
+	border: 1px solid #999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0 auto;
+	color: #333;
+	width: 800px;
+}
+
+.print-wrapper table {
+	width: 100%;
+}
+
+.bidder-details {
+}
+
+.bidder-details td {
+	padding: 0 0 7px 0;
+}
+
+.bidding-details {
+	border: 1px solid #999;
+	margin-top: 10px;
+	padding: 15px 0 15px 15px;
+}
+
+.bidding-details table {
+	border: 1px solid #666;
+	float: left;
+	width: 356px;
+	margin-right: 15px;
+}
+
+.bidding-details table th, .bidding-details table td {
+	text-align: left;
+	padding: 6px 10px;
+	border-top: 1px solid #ccc;
+}
+
+.bidding-details table th {
+	background-color: #ccc;
+}
+
+.bidding-details table tr.alternate td {
+	background-color: #f5f5f5;
+}
+
+.for-office-use {
+	width: auto !important;
+	border: 1px solid #666;
+	margin-top: 10px;
+}
+
+.for-office-use td {
+}
